@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "name": " Machairoceratops cronusi, or bent sword face ",
+    "image": "https://thumbs-prod.si-cdn.com/HTFIvfYyj5wQ4YHaCbhmzGQ8GLc=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/25/92/2592c265-191e-4c7d-a339-ec19f7c98185/machiairoceratops.jpg",
+    "occupation": "Dinosaur",
+    "location": "southern Utah"
+  },
+  {
+    "id": 2,
+    "name": "Spiclypeus shipporum",
+    "image": "http://cdn.sci-news.com/images/enlarge2/image_3877_1e-Spiclypeus-shipporum.jpg",
+    "occupation": "Dinosaur",
+    "location": "Montana"
+  },
+  {
+    "id": 3,
+    "name": "Amargasaurus cazaui",
+    "image": "http://www.artrep1.com/wp-content/uploads/2015/07/Amargasaurus-group-s.jpg",
+    "occupation": "Dinosaur",
+    "location": "Argentina"
+  },
+  {
+    "id": 4,
+    "name": "Therizinosaurus cheloniformis and Oviraptor philoceratops",
+    "image": "http://www.artrep1.com/wp-content/uploads/2015/07/Therizinosaurus-Oviraptors-sjpg.jpg",
+    "occupation": "Dinosaurs",
+    "location": "Mongolia"
+  },
+  {
+    "id": 5,
+    "name": "Mamenchisaurus constructus and Huayangosaurus taibaii",
+    "image": "http://www.artrep1.com/wp-content/uploads/2017/06/Mamenchisaurus-Huayangosaurus.jpg",
+    "occupation": "Dinosaurs",
+    "location": "Sichuan and Huayang, China"
+  },
+  {
+    "id": 6,
+    "name": "Olorotitan arharensis",
+    "image": "http://www.artrep1.com/wp-content/uploads/2016/04/Olorotitan.jpg",
+    "occupation": "Dinosaur",
+    "location": " Far Eastern Russia"
+  },
+  {
+    "id": 7,
+    "name": "Tropeognathus mesembrinus",
+    "image": "http://www.artrep1.com/wp-content/uploads/2016/04/Tropeognathus.jpg",
+    "occupation": "Dinosaur",
+    "location": "Ceará, Brazil"
+  },
+  {
+    "id": 8,
+    "name": "Plesiosaurus dolichodeirus",
+    "image": "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjRu8fCme3XAhVIlVQKHQv6AH4QjRwIBw&url=http%3A%2F%2Fwww.bbcearth.com%2Fwalking-with-dinosaurs%2Fmodal%2Fplesiosaurus%2F&psig=AOvVaw16cNkLaTz9hDNwGt475FyO&ust=1512368409322244",
+    "occupation": "Not a dinosaur, but lived around same time they did",
+    "location": "Lias of England"
+  },
+  {
+    "id": 9,
+    "name": "Spinosaurus aegyptiacus",
+    "image": "http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_640/images/live/p0/3j/mt/p03jmt44.jpg",
+    "occupation": "Dinosaur that like aquatic foods",
+    "location": "Egypt"
+  },
+  {
+    "id": 10,
+    "name": "Tyrannosaurus rex",
+    "image": "http://ichef.bbci.co.uk/naturelibrary/images/ic/credit/640x395/t/ty/tyrannosaurus/tyrannosaurus_1.jpg",
+    "occupation": "Dinosaur of the carnivorous kind",
+    "location": "Laramidia, western North America"
+  },
+  {
+    "id": 11,
+    "name": "Agustinia ligabuei",
+    "image": "http://www.artrep1.com/wp-content/uploads/2012/03/Agustinia-painting-.jpg",
+    "occupation": "Dinosaur",
+    "location": "Argentina"
+  },
+  {
+    "id": 12,
+    "name": "Diabloceratops eatoni",
+    "image": "http://www.artrep1.com/wp-content/uploads/2012/03/Diabloceratops-painting.jpg",
+    "occupation": "Dinosaur",
+    "location": "Utah"
+  }
+]
+
+{
+    "id": 13,
+    "name": "Spinops sternbergorum",
+    "image": "http://s1.1zoom.me/big0/110/Ancient_animals_444045.jpg",
+    "occupation": "Dinosaur",
+    "location": "Alberta, Canada"
+  }
+]
